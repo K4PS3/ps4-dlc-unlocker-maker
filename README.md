@@ -13,8 +13,8 @@ you need to set ***pubCmd*** to correct path of ***orbis-pub-cmd.exe*** from the
 | **Variable** | **value** | **description** |
 | ------ | ------ | ----|
 | **contentId** | xxyyyy-CUSAzzzzz_00-cccccccccccccccc | xx (EP or UP), y's (4 numbers), z's (5 numbers game id), c's 16 character dlc name|
-| **title** | DLC title | up to 48 character for dlc title |
-| **passcode** | 00000000000000000000000000000000 | always be good and use zeros for passcode|
+| **title** | DLC title | up to 128 character for dlc title |
+| **passcode** | 00000000000000000000000000000000 | (32 characters) always be good and use zeros for passcode|
 
 ## TODO
 
